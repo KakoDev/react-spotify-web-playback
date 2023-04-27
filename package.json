@@ -146,5 +146,8 @@
       "path": "./dist/index.mjs",
       "limit": "20 KB"
     }
-  ]
+  ],
+  "publishConfig": {
+    "KakoDev:registry": "https://npm.pkg.github.com"
+  }
 }
